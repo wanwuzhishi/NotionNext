@@ -9,8 +9,10 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://wwzs.us.kg' },
-    { title: '我是万物之时.一个爱折腾的小白'， ur1: 'https://wwzs.us.kg' }
-  ],
+   {
+  title: '我是万物之时，一个爱折腾的小白',
+  url: 'https://wwzs.us.kg'
+}
 
   // 英雄区左右侧组件颠倒位置
   HEO_HERO_REVERSE: false,
